@@ -38,7 +38,7 @@
 - 💌 Email: [mand.amanda1304@gmail.com]
 - 💼 [LinkedIn](www.linkedin.com/in/amanda-alves-de-frança-0548048a)
 
-### Meu perfil em plataformas de estudos
+### 💻 Meu perfil em plataformas de estudos
 
 - 🚀 [Meu perfil na DIO](https://www.dio.me/users/mand_amanda1304)
 
