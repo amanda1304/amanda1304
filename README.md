@@ -28,7 +28,7 @@
 
 ### 🛠 Projetos em destaque
 
-- 🎓 [Miado Crítico-Em desenvolvimento-Protótipo no Figma](https://www.figma.com/proto/136P97fVQDVqhwGAWnAux0/Miado-Cr%C3%ADtico?node-id=183-2&t=T1OYUIEa84GOfBWA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=183%3A2)) <img src="https://github.com/amanda1304/amanda1304/blob/main/Gato-i.png" alt="Ícone Miado Crítico" width="30"/> — Ferramenta para ajudar estudantes a escrever redações  
+- 🎓 [Miado Crítico-Em desenvolvimento-Protótipo no Figma]— Ferramenta para ajudar estudantes a escrever redações  
 - 🎨 [Protótipo no Figma da UNIVESP](https://www.figma.com/proto/FLMVxN9Otyjai1GNxgrzby/univesp?node-id=3-18&t=duYFhxdf2TcNSx7y-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=314%3A758)
 
 ---
