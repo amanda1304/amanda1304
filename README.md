@@ -15,7 +15,7 @@
 ---
 
 ### 🔧 Tecnologias que estou aprendendo
-[![My Skills](https://skillicons.dev/icons?i=c#,javascript,python,html,css,figma,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c#, js, python, html, css, figma, mysql)](https://skillicons.dev)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
