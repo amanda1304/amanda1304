@@ -18,6 +18,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,cs,html,css,figma,mysql)](https://skillicons.dev)
 
 ---
+---
+
+
+
+---
 
 ### 🛠 Projetos em destaque
 
