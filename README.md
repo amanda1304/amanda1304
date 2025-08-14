@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module">
+<iframe src="https://lottie.host/embed/b4feee8e-bde5-4882-a0d4-8b1450107e16/FBwlVEtvhT.lottie"></iframe>
 
 
 ---
