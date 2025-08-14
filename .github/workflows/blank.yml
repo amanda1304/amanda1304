@@ -17,14 +17,16 @@ jobs:
         run: |
           # executa script que salva contribuições como JSON ou CSV
 
-      - name: Generate animation
+      - name: Gerar animação
         run: |
-          # script que gera um SVG animado ou GIF com o gato e as contribuições caindo
+          python gerar_animacao.py > animation.svg
+          ls -l animation.svg
 
       - name: Commit animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
           git add animation.svg
-          git commit -m "atualiza Food Drop animation"
+          git commit -m "atualiza Food Drop animation" || echo "Nenhuma mudança para commitar"
           git push
+
