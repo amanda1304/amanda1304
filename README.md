@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://lottie.host/embed/b4feee8e-bde5-4882-a0d4-8b1450107e16/FBwlVEtvhT.lottie" >
+<img src="https://github.com/amanda1304/amanda1304/blob/main/Cat.gif" >
 
 
 ---
