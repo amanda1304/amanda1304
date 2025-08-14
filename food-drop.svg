@@ -1,0 +1,26 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<style>
+    text { font-family: Arial, sans-serif; }
+</style>
+<rect width="100%" height="100%" fill="#f0f8ff" />
+<text x="10" y="20" font-size="16" fill="#333">Gato Food Drop - 2025-08-14 04:29:12</text>
+<rect x="581" y="123" width="20" height="20" fill="#87cefa" /><rect x="467" y="63" width="20" height="20" fill="#ffd700" /><rect x="738" y="27" width="20" height="20" fill="#ffd700" /><rect x="122" y="17" width="20" height="20" fill="#adff2f" /><rect x="284" y="42" width="20" height="20" fill="#ff4500" /><rect x="316" y="6" width="20" height="20" fill="#ffd700" /><rect x="540" y="40" width="20" height="20" fill="#adff2f" /><rect x="638" y="14" width="20" height="20" fill="#87cefa" /><rect x="337" y="181" width="20" height="20" fill="#ff4500" /><rect x="223" y="29" width="20" height="20" fill="#ff4500" />
+
+<g id="gato" transform="translate(350, 250)">
+    <!-- Corpo -->
+    <ellipse cx="50" cy="50" rx="50" ry="35" fill="#f4a460" />
+    <!-- Cabeça -->
+    <circle cx="50" cy="0" r="30" fill="#f4a460" />
+    <!-- Olhos -->
+    <circle cx="40" cy="-5" r="5" fill="white" />
+    <circle cx="60" cy="-5" r="5" fill="white" />
+    <circle cx="40" cy="-5" r="2" fill="black" />
+    <circle cx="60" cy="-5" r="2" fill="black" />
+    <!-- Boca -->
+    <path d="M 45 10 Q 50 15 55 10" stroke="black" fill="transparent" />
+    <!-- Orelhas -->
+    <polygon points="30,-15 40,-35 50,-15" fill="#f4a460" />
+    <polygon points="70,-15 60,-35 50,-15" fill="#f4a460" />
+</g>
+
+</svg>
