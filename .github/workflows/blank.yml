@@ -1,0 +1,30 @@
+
+name: Generate Food Drop Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch contributions grid
+ 
+        run: |
+          # executa script que salva contribuições como JSON ou CSV
+
+      - name: Generate animation
+        run: |
+          # script que gera um SVG animado ou GIF com o gato e as contribuições caindo
+
+      - name: Commit animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add animation.svg
+          git commit -m "atualiza Food Drop animation"
+          git push
