@@ -18,8 +18,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,cs,html,css,figma,mysql)](https://skillicons.dev)
 
 ---
----
 
+
+![Food Drop](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/food-drop.svg)
 
 
 ---
