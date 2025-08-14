@@ -26,7 +26,7 @@ jobs:
       # 4. Rodar script para gerar animação
       - name: Gerar animação
         run: |
-          python amanda1304/amanda1304/gerar_animacao.py
+          python home/runner/work/amanda1304/amanda1304/gerar_animacao.py
           mkdir -p dist
           mv animacao.svg dist/food-drop.svg
           ls -l dist
