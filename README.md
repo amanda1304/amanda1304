@@ -19,9 +19,8 @@
 
 ---
 
-
-<img src="https://lottiefiles.com/free-animation/loader-cat-dWUie0iIVk">
-
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/b4feee8e-bde5-4882-a0d4-8b1450107e16/FBwlVEtvhT.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
 
 ---
 
