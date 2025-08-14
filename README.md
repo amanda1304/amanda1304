@@ -20,7 +20,7 @@
 ---
 
 
-![Food Drop](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/food-drop.svg)
+![Food Drop](https://raw.githubusercontent.com/amanda1304/amanda1304/output/food-drop.svg)
 
 
 ---
