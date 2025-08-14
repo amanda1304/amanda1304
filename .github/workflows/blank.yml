@@ -1,32 +1,13 @@
+- name: Gerar animação
+  run: |
+    python gerar_animacao.py
+    ls -l animacao.svg
 
-name: Generate Food Drop Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Fetch contributions grid
- 
-        run: |
-          # executa script que salva contribuições como JSON ou CSV
-
-      - name: Gerar animação
-        run: |
-          python gerar_animacao.py > animation.svg
-          ls -l animation.svg
-
-      - name: Commit animation
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
-          git add animation.svg
-          git commit -m "atualiza Food Drop animation" || echo "Nenhuma mudança para commitar"
-          git push
-
+- name: Commit animation
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "actions@github.com"
+      git add animacao.svg
+      git commit -m "atualiza animação do Food Drop" || echo "Nenhuma mudança para commitar"
+      git push
+  
