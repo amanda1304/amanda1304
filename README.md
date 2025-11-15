@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://github.com/amanda1304/amanda1304/blob/main/CatF.gif" width='100' />
+<img src="https://github.com/amanda1304/amanda1304/blob/main/CatF.gif" >
 
 
 ---
