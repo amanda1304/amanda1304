@@ -10,7 +10,6 @@
 
 - 💡 Estudante de Engenharia da Computação pela UNIVESP  
 - 🌱 Atualmente estudando **programação**, **desenvolvimento de apps** e **inteligência artificial**
-- 🎯 Interesses: IA aplicada ao bem-estar, aplicativos educacionais
 
 ---
 
