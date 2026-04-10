@@ -9,7 +9,7 @@
 ### 👩‍💻 Sobre mim
 
 - 💡 Estudante de Engenharia da Computação pela UNIVESP  
-- 🌱 Atualmente estudando **programação**, **desenvolvimento de apps** e **inteligência artificial**
+- 🌱 Atualmente estudando **programação**, **desenvolvimento de apps** 
 
 ---
 
@@ -35,7 +35,6 @@
 - 💌 Email: [mand.amanda1304@gmail.com]
 - 💼 [LinkedIn](www.linkedin.com/in/amanda-alves-de-frança-0548048a)
 
-### 💻 Meu perfil em plataformas de estudos
 
-- 🚀 [Meu perfil na DIO](https://www.dio.me/users/mand_amanda1304)
+
 
