@@ -24,6 +24,7 @@
 ---
 
 ### 🛠 Projetos em destaque
+- [Guia-Útil](https://guiautilonline.vercel.app/#categories)
 - :clipboard:[Prontuario-Unificado-UNIVESP-II](https://github.com/amanda1304/React)
 - 🏃[Site em desenvolvimento do projeto integrador III -Agenda Odontológica](https://amanda1304.github.io/0dontol0gica-PI-III-UNIVESP/#/)
 - 🎨 [Protótipo no Figma da UNIVESP PI-III](https://www.figma.com/design/xcHmc6K58kmt3K4Fnmqs2l/Sem-t%C3%ADtulo?node-id=0-1&m=dev)
